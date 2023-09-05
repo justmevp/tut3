@@ -1,0 +1,1 @@
+Exercise 1. Implement a standalone procedure to read in a file containing words and white space and produce a short version of the file in an output file. The short version should contain  all of the words in the input file and none of the white space, except that it should preserve lines.
